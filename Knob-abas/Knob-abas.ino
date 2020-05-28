@@ -15,9 +15,10 @@
 // NA PASTA DO SEU SKETCH
 
 ///////////////////////////////////////////////////////////////////////////////
-// MUDAR APENAS ESTAS DUAS LINHAS no sketch que ja usa a biblioteca
+// MUDAR A DECLARAÇÃO DA BIBLIOTECA no sketch que ja usa a biblioteca
 #include "VarSpeedServo_local.h" 
- 
+
+// E O TIPO NAS LINHAS QUE DEFINEM OS SERVOS 
 VarSpeedServo_local myservo;    // create servo object to control a servo 
 ///////////////////////////////////////////////////////////////////////////////
  
