@@ -3,7 +3,7 @@ VarSpeedServo.h
 
 Version for running with files as tabs
 ===================================
-all credits for the original [library](https://raw.githubusercontent.com/netlabtoolkit/VarSpeedServo)
+all credits for the original [library](https://github.com/netlabtoolkit/VarSpeedServo)
 
 The VarSpeedServo.h Arduino library allows the use of up to 8 servos moving asynchronously (because it uses interrupts). In addition, you can set the speed of a move, optionally wait (block) until the servo move is complete, and create sequences of moves that run asynchronously.
 
